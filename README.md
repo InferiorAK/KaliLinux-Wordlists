@@ -10,6 +10,10 @@ All Wordlists of Kali Linux is Collected here
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FKaliLinux-Wordlists&title=Visitors&edge_flat=false"/>
 </p>
 
+<br>
+
+<a href="https://github.com/InferiorAK/KaliLinux-Wordlists/releases/download/wordlist/rockyou.txt.tgz">rockyou.txt.tgz</a>
+
 ## [+] My Links
 
 <div align=center>
