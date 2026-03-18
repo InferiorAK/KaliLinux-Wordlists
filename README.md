@@ -7,7 +7,7 @@ All Wordlists of Kali Linux is Collected here
   <img src="https://img.shields.io/github/forks/inferiorAK/KaliLinux-Wordlists?color=teal&style=for-the-badge">
 </p>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FKaliLinux-Wordlists&title=Visitors&edge_flat=false"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=InferiorAK.KaliLinux-Wordlists" alt="Visitors">
 </p>
 
 <br>
